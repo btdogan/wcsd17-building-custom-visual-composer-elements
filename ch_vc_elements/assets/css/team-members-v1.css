@@ -1,0 +1,72 @@
+#team-members .team-member {
+    margin-bottom: 35px;
+    overflow: hidden;
+}
+
+#team-members .team-member .team-member-picture {
+    text-align: center;
+}
+
+#team-members .team-member .team-member-picture img {
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50%;
+}
+
+#team-members .team-member .team-member-metabox {
+    position: relative;
+    margin: 30px auto;
+    text-align: center;
+}
+
+#team-members .team-member ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    -webkit-margin-before: 20px;
+    -webkit-margin-after: 5px;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+}
+
+#team-members .team-member .team-member-name {
+    text-align: center;
+}
+
+#team-members .team-member .team-member-name a {
+    font-size: 24px;
+    font-weight: 700;
+    color: #2d1d12;
+    text-decoration: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#team-members .team-member .team-member-meta {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+}
+
+#team-members .team-member .team-member-meta li {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-top: 15px;
+}
+
+#team-members .team-member .team-member-meta .talktitle {
+    color: #ff0000;
+    min-height: 60px;
+}
+
+#team-members .team-member .team-member-meta .twitteru {
+    color: #0084b4;
+    margin-top: 0;
+}
